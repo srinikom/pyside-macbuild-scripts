@@ -1,5 +1,5 @@
-Sample Build .app from PySide scripts
--------------------------------------
+Sample app build scripts for PySide
+-----------------------------------
 
 Info.plist - plist to contain app settings (eq to registry in win)
 Makefile 
